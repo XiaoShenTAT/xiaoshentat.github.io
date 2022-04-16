@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
 description: "博客一看，没有大碍，但你被rickroll了"
 keyword: "整活, 摆烂, van游戏, 社交牛杂症, 我都要！"
-url: "https://klovien.github.io"          # your host, for absolute URL
+url: "https://xiaoshtat.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/XiaoShenTAT/xiaoshentat.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
